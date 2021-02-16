@@ -42,7 +42,7 @@ Want to enter the field of CyberSecurity 🔐
 
 
 - 👨🏽‍💻 Away from web development but not so much -->Recently learning CyberSecurity and want to get a security+ certificate
-- 💻  Check out my Website 😊 [!Amna](https://img.shields.io/badge/-amna--jaser.com-black?style=flat-square)](https://www.amna-jasser.com/)
+
 
 ### 🛠️ Languages and Tools:
 
@@ -82,6 +82,8 @@ If you want to contact me for anything I will be pleased to respond 🥰
 ❤️ Offer work : Send the offer on [![Linkedin Badge](https://img.shields.io/badge/-amna--jaser-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/amnaalthafeeri/)
 or 
 [![Gmail Badge](https://img.shields.io/badge/-amnaalthaferi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amnaalthaferi@gmail.com)](mailto:amnaalthaferi@gmail.com)
+
+💻 Check out my Website 😊 [!Amna](https://img.shields.io/badge/-amna--jaser.com-black?style=flat-square)](https://www.amna-jasser.com/)
 
 
 
