@@ -21,14 +21,17 @@
 <br/>
 
 <p>
-A Computer Engineer and FullStack JavaScript Developer 🚀. Always working on some project or learning something new!
+A Computer Engineer and FullStack JavaScript Developer 🚀.
+ <br/>
+ Always working on some project or learning something new!
 <br/>
 Interested in React, React native and wants to build awesome projects 🛠
 <br/>
 Want to enter the field of CyberSecurity 🔐
 <br/>
 Check out my Website 😊 
-[![amna-jasser](https://img.shields.io/badge/-amna--jaser.com-ff69b4?style=flat-square)](https://amna-jasser.com)
+
+   [![[amnajasser](https://img.shields.io/badge/-amna--jaser.com-ff69b4?style=flat-square)](https://www.amna-jasser.com)
 </p>
 
 
