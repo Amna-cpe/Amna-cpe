@@ -83,7 +83,7 @@ If you want to contact me for anything I will be pleased to respond 🥰
 or 
 [![Gmail Badge](https://img.shields.io/badge/-amnaalthaferi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amnaalthaferi@gmail.com)](mailto:amnaalthaferi@gmail.com)
 
-💻 Check out my Website 😊 [!Amna](https://img.shields.io/badge/-amna--jaser.com-black?style=flat-square)](https://www.amna-jasser.com/)
+💻 Check out my Website 😊 [![Amna Badge](https://img.shields.io/badge/-amna--jaser.com-black?style=flat-square)](https://www.amna-jasser.com/)
 
 
 
