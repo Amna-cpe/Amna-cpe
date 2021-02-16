@@ -31,7 +31,7 @@ Want to enter the field of CyberSecurity 🔐
 <br/>
 Check out my Website 😊 
 
-   [![[amnajasser](https://img.shields.io/badge/-amna--jaser.com-ff69b4?style=flat-square)](https://www.amna-jasser.com)
+   [[](https://img.shields.io/badge/-amna--jaser.com-ff69b4?style=flat-square)](https://www.amna-jasser.com)
 </p>
 
 
@@ -79,7 +79,7 @@ Check out my Website 😊
 
 
 
-### 👣 Contacsts
+### 👣 Contacts
 
 If you want to contact me for anything I will be pleased to respond 🥰
 
