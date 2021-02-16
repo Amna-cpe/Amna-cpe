@@ -29,9 +29,7 @@ Interested in React, React native and wants to build awesome projects 🛠
 <br/>
 Want to enter the field of CyberSecurity 🔐
 <br/></p>
-###  💻  Check out my Website 😊
-
-[!Amna](https://img.shields.io/badge/-amna--jaser.com-black?style=flat-square)](https://www.amna-jasser.com/)
+### 💻  Check out my Website 😊 [!Amna](https://img.shields.io/badge/-amna--jaser.com-black?style=flat-square)](https://www.amna-jasser.com/)
 
 
 
