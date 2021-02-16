@@ -28,9 +28,11 @@ A Computer Engineer and FullStack JavaScript Developer 🚀.
 Interested in React, React native and wants to build awesome projects 🛠
 <br/>
 Want to enter the field of CyberSecurity 🔐
-<br/>
-Check out my Website 😊 [![Linkedin Badge](https://img.shields.io/badge/-amna--jaser-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/amnaalthafeeri/)
-</p>
+<br/></p>
+###  💻  Check out my Website 😊
+
+[!Amna](https://img.shields.io/badge/-amna--jaser.com-black?style=flat-square)](https://www.amna-jasser.com/)
+
 
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
