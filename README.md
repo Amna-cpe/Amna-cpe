@@ -41,7 +41,6 @@ Want to enter the field of CyberSecurity 🔐
 - 🎿 Hobbies other than coding: I write cipher messages to my friend for fun 😎 , I like to listen to music from different cultures, Read about the history and greek mythology 👀
 
 
-- 👨🏽‍💻 Away from web development but not so much -->Recently learning CyberSecurity and want to get a security+ certificate
 - 💻 Check out my Website 😊 [![Amna Badge](https://img.shields.io/badge/-amna--jaser.com-black?style=flat-square)](https://www.amna-jasser.com/)
 
 
